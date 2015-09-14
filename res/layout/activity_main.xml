@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.meng.slidemenum.ui.SlideMenu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/slideMenu"
+    android:background="@drawable/bg"
+    >
+     <include layout="@layout/layout_menu"/>
+    
+    
+    <include layout="@layout/layout_main"/>
+   
+    
+</com.meng.slidemenum.ui.SlideMenu>
